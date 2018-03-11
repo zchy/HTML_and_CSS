@@ -1,3 +1,3 @@
-# HTML_and_CSS_HW
+# HTML_and_CSS
 
-Creates informative music HTML pages with list, hyperlinks, and images. 
+Creates informative music HTML pages using list, hyperlinks, relative path, absolute path, and images. 
